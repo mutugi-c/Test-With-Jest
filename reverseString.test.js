@@ -1,5 +1,12 @@
 const reverseString = require('./reverseString')
 
-test('Today returns yadoT', () => {
-    expect(reverseString('Today')).toBe('yadoT');
+describe('reverseString', () => {
+  it('returns the reverse of a string', () => {
+ 
+    const str = 'Today';
+
+    const reversedStr = reverseString(str);
+
+    expect(reversedStr).toBe('yadoT');
+  });
 });
