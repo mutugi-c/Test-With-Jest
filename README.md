@@ -44,7 +44,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Follows the AAA pattern**
+- **Tests follow the AAA pattern**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
